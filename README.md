@@ -7,7 +7,12 @@ DooWeb offers a sleek, distraction-free task management experience with local st
 ---
 
 ### 🖥️ Live Preview
-[🔗 View the App on Replit](https://replit.com/@charanmasagani/DooWeb)
+| UI Preview | Description |
+|-----------|-------------|
+| ![Page 1](https://github.com/Charansai1902/To-Do-List/blob/main/Page1.png?raw=true) | **Homepage UI** — Add and manage tasks in a clean layout |
+| ![Page 2](https://github.com/Charansai1902/To-Do-List/blob/main/Page2%20.png?raw=true) | **Task Interaction** — Complete, edit, or delete tasks |
+| ![Page 3](https://github.com/Charansai1902/To-Do-List/blob/main/Pageee3.png?raw=true) | **Responsive Design** — Works seamlessly on all devices |
+
 
 ---
 
