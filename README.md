@@ -8,11 +8,10 @@ DooWeb offers a sleek, distraction-free task management experience with local st
 
 ### 🖥️ Live Preview
 | UI Preview | Description |
-|-----------|-------------|
-| ![Page 1](https://github.com/Charansai1902/To-Do-List/blob/main/Page1.png?raw=true) | **Homepage UI** — Add and manage tasks in a clean layout |
-| ![Page 2](https://github.com/Charansai1902/To-Do-List/blob/main/Page2%20.png?raw=true) | **Task Interaction** — Complete, edit, or delete tasks |
-| ![Page 3](https://github.com/Charansai1902/To-Do-List/blob/main/Pageee3.png?raw=true) | **Responsive Design** — Works seamlessly on all devices |
-
+|------------|-------------|
+| ![Page 1](https://github.com/Charansai1902/To-Do-List/blob/main/Page1.png?raw=true) | ✨ **Homepage Interface** – A stunning black glassmorphic UI with a floating input bar and elegant title section. |
+| ![Page 2](https://github.com/Charansai1902/To-Do-List/blob/main/Page2%20.png?raw=true) | ✅ **Task Interaction & Completion** – Smoothly animated tasks with check-off functionality, edit icon, and real-time updates. |
+| ![Page 3](https://github.com/Charansai1902/To-Do-List/blob/main/Pageee3.png?raw=true) | 📱 **Mobile-Responsive View** – Perfectly adaptive UI with consistent spacing, fonts, and behavior across mobile devices. |
 
 ---
 
